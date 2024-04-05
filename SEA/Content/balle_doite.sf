@@ -1,0 +1,29 @@
+{
+  "textureAtlas": {
+    "texture": "balle_doite.png",
+    "regionWidth": 49,
+    "regionHeight": 50
+  },
+  "cycles": {
+    "tir_gauche": {
+      "frames": [35,34,33,32,31],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "tir_droite": {
+      "frames": [0,41,42,43,44],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "tir_hauts": {
+      "frames": [12,6,3,9],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "tir_bas": {
+      "frames": [12,15,24,21],
+      "isLooping": false,
+      "frameDuration": 0.2
+    }
+  }
+}
